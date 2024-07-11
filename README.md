@@ -30,6 +30,6 @@ Version History
 - v1.1: Added validation and error handling
 
 Contact
-Harshii_Myme ((https://www.linkedin.com/in/harshit-rajeev-29175b224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+Harshit Rajeev ((https://www.linkedin.com/in/harshit-rajeev-29175b224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
-Note: This is just a sample, and you should customize it to fit your specific project and needs.
+
